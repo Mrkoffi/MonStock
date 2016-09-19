@@ -35,5 +35,6 @@ namespace MonStock
             }
             System.Windows.Forms.Application.Exit();
         }
+
     }
 }
